@@ -14,6 +14,7 @@ mongoose.connect(process.env.MONGO)
 })
 .catch((err) =>{
     console.log(err);
+    
 });
 
 const app = express();
