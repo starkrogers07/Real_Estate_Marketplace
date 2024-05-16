@@ -7,7 +7,7 @@ module.exports = {
     // Add more file paths if necessary
   ],
   plugins: [
-    require('@tailwindcss/line-clamp'),
+    
     // ...
   ],
   // Other Tailwind CSS configurations...
